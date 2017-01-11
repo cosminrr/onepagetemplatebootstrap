@@ -8,7 +8,7 @@ S1ngletone is a responsive, one page theme created with the popular [Bootstrap F
 Main features include:
 
 * Meta tags for SEO and content (twitter cards, open graph tags)
-* Responsive Google Map (the pointer reacts as you scale the window)
+* Responsive Google Map (the pointer remains on the center/focus of the page as you scale the window)
 * Font Awesome and Glyphicons
 
 ## Getting Started
