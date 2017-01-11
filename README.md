@@ -3,7 +3,7 @@ Bootstrap One Page Website Template
 
 ## [S1ngletone Bootstrap](https://github.com/cosminrr) - [S1ngletone](https://github.com/cosminrr/onepagetemplatebootstrap)
 
-S1ngletone is a responsive, one page theme created with the popular [Bootstrap Framework](http://getbootstrap.com/) created by [CosminR](https://github.com/cosminrr). The theme features multiple content sections with an off canvas navigation menu and a responsive Google Maps section.
+S1ngletone is a responsive, one page theme created with the popular [Bootstrap Framework](http://getbootstrap.com/) by [CosminR](https://github.com/cosminrr). The theme features multiple content sections with an off canvas navigation menu and a responsive Google Maps section.
 
 Main features include:
 
